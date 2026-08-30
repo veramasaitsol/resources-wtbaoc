@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veramasaitsol.github.io/resources-wtbaoc/sitemap.xml
